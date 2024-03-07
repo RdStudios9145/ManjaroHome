@@ -1,0 +1,6 @@
+2024-03-04 15:26:18.422 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-03-04 15:26:18.422 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent, terminalExecuteCommandEvent
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, testObserver, envShellEvent, quickPickItemTooltip, terminalDataWriteEvent, saveEditor
+2024-03-04 15:26:20.860 [info] [perf] Render performance baseline is 72ms
+2024-03-04 15:26:21.902 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes'. You MUST start in extension development mode or use the --enable-proposed-api command line flag

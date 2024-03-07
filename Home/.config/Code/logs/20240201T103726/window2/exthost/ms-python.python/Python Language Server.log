@@ -1,0 +1,11 @@
+2024-02-01 10:37:35.505 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-02-01 10:37:38.650 [info] [Info  - 10:37:38 AM] (3928) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-02-01 10:37:38.654 [info] [Info  - 10:37:38 AM] (3928) Server root directory: /home/holden/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-02-01 10:37:38.654 [info] [Info  - 10:37:38 AM] (3928) Starting service instance "Haueauuark"
+2024-02-01 10:37:38.873 [info] [Info  - 10:37:38 AM] (3928) Setting pythonPath for service "Haueauuark": "/bin/python"
+2024-02-01 10:37:38.877 [info] [Info  - 10:37:38 AM] (3928) Setting environmentName for service "Haueauuark": "3.11.6 (global)"
+2024-02-01 10:37:39.013 [info] [Info  - 10:37:39 AM] (3928) Assuming Python version 3.11
+2024-02-01 10:37:39.360 [info] [Info  - 10:37:39 AM] (3928) Found 1 source file
+2024-02-01 10:37:44.914 [info] [Info  - 10:37:44 AM] (3928) [BG(1)] Long operation: analyzing: /home/holden/Documents/programming/python/Haueauuark/hauuauaeuuearrrrrrrrk.py (2483ms)
+2024-02-01 10:37:46.262 [info] [Info  - 10:37:46 AM] (3928) [IDX(2)] Long operation: scan packages /home/holden/Documents/programming/python/Haueauuark (3421ms)
+2024-02-01 10:38:18.197 [info] [Error - 10:38:18 AM] Server process exited with code 0.

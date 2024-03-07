@@ -1,0 +1,1 @@
+if RuntimeError del all

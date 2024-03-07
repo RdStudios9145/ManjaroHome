@@ -1,0 +1,8 @@
+[13728:0106/100805.969810:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[2936:0107/143152.939155:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[9369:0110/111321.172148:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[24945:0205/165952.438965:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[24992:0205/170002.182866:WARNING:spdy_session.cc(2984)] Received HEADERS for invalid stream 19
+[24992:0205/170002.231044:WARNING:spdy_session.cc(2984)] Received HEADERS for invalid stream 17
+[24992:0205/170002.231150:WARNING:spdy_session.cc(2984)] Received HEADERS for invalid stream 23
+[24992:0205/170002.231175:WARNING:spdy_session.cc(2984)] Received HEADERS for invalid stream 21

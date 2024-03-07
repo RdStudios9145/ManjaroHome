@@ -1,0 +1,11 @@
+2024-02-01 10:37:33.696 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-01 10:37:33.696 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-01 10:37:33.696 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-01 10:37:33.696 [info] Experiment 'pythonTestAdapter' is active
+2024-02-01 10:37:33.696 [info] Default formatter is set to null for workspace /home/holden/Documents/programming/python/Haueauuark
+2024-02-01 10:37:33.696 [info] Test server listening.
+2024-02-01 10:37:33.696 [info] Python interpreter path: /bin/python
+2024-02-01 10:37:34.368 [warning] Retry failed, storage update failed for key autoSelectedWorkspacePythonInterpreter-/home/holden/Documents/programming/python/Haueauuark
+2024-02-01 10:37:34.368 [warning] Retry failed, storage update failed for key autoSelectedWorkspacePythonInterpreter-/home/holden/Documents/programming/python/Haueauuark
+2024-02-01 10:37:34.368 [warning] Retry failed, storage update failed for key autoSelectedWorkspacePythonInterpreter-/home/holden/Documents/programming/python/Haueauuark
+2024-02-01 10:37:38.779 [info] Starting Pylance language server.

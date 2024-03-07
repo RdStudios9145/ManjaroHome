@@ -1,0 +1,20 @@
+# GIMP action-history
+
+(history-item "edit-paste" 1)
+(history-item "edit-clear" 4)
+(history-item "edit-copy" 3)
+(history-item "select-stroke" 0)
+(history-item "tools-ellipse-select" 0)
+(history-item "tools-rect-select" 3)
+(history-item "layers-new" 0)
+(history-item "file-save" 0)
+(history-item "file-export-as" 0)
+(history-item "file-quit" 1)
+(history-item "image-new" 1)
+(history-item "dialogs-preferences" 0)
+(history-item "dialogs-brushes" 0)
+(history-item "tools-rotate-image-arbitrary" 0)
+(history-item "layers-delete" 0)
+(history-item "file-export" 1)
+
+# end of action-history

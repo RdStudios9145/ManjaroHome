@@ -1,0 +1,21 @@
+2024-03-04 15:26:21.780 [info] Getting Manifest... ms-python.python
+2024-03-04 15:26:21.781 [info] Getting Manifest... ms-python.vscode-pylance
+2024-03-04 15:26:21.885 [info] Installing extension: ms-python.vscode-pylance
+2024-03-04 15:26:21.886 [info] Installing extension: ms-python.python
+2024-03-04 15:26:22.523 [info] Getting Manifest... ms-python.python
+2024-03-04 15:26:22.530 [info] Getting Manifest... ms-python.debugpy
+2024-03-04 15:26:22.776 [info] Getting Manifest... ms-python.debugpy
+2024-03-04 15:26:22.850 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-03-04 15:26:25.472 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2024-03-04 15:26:26.025 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2024-03-04 15:26:29.703 [info] Extracted extension to file:///home/holden/.vscode/extensions/ms-python.python-2024.2.1: ms-python.python
+2024-03-04 15:26:29.725 [info] Renamed to /home/holden/.vscode/extensions/ms-python.python-2024.2.1
+2024-03-04 15:26:29.733 [info] Extracting extension completed. ms-python.python
+2024-03-04 15:26:29.756 [info] Extension installed successfully: ms-python.python
+2024-03-04 15:26:29.757 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-03-04 15:26:29.769 [info] Marked extension as uninstalled ms-python.python-2023.22.1
+2024-03-04 15:26:31.889 [info] Extracted extension to file:///home/holden/.vscode/extensions/ms-python.vscode-pylance-2024.2.2: ms-python.vscode-pylance
+2024-03-04 15:26:32.139 [info] Renamed to /home/holden/.vscode/extensions/ms-python.vscode-pylance-2024.2.2
+2024-03-04 15:26:32.145 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-03-04 15:26:32.168 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-03-04 15:26:32.182 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.12.1

@@ -1,0 +1,19 @@
+2024-01-31 15:16:25.981 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-31 15:16:25.981 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-31 15:16:25.981 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-01-31 15:16:25.981 [info] Experiment 'pythonTestAdapter' is active
+2024-01-31 15:16:25.981 [info] Default formatter is set to null for workspace /home/holden/Documents/programming/python/Haueauuark
+2024-01-31 15:16:25.981 [info] Test server listening.
+2024-01-31 15:16:26.403 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-31 15:16:26.403 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-31 15:16:26.403 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-31 15:16:26.403 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-31 15:16:26.404 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-31 15:16:26.406 [info] Python interpreter path: /bin/python
+2024-01-31 15:16:26.496 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-31 15:16:27.767 [info] Starting Pylance language server.
+2024-01-31 15:17:55.587 [info] CreateEnv Trigger - Skipping for /home/holden/Documents/programming/python/Haueauuark/hauuauaeuuearrrrrrrrk.py
+2024-01-31 15:17:55.694 [info] Send text to terminal: /bin/python /home/holden/Documents/programming/python/Haueauuark/hauuauaeuuearrrrrrrrk.py
+2024-01-31 15:17:55.820 [info] Discover tests for workspace name: Haueauuark - uri: /home/holden/Documents/programming/python/Haueauuark/hauuauaeuuearrrrrrrrk.py
+2024-01-31 15:18:45.945 [info] Send text to terminal: /bin/python /home/holden/Documents/programming/python/Haueauuark/hauuauaeuuearrrrrrrrk.py
+2024-01-31 15:18:46.182 [info] Discover tests for workspace name: Haueauuark - uri: /home/holden/Documents/programming/python/Haueauuark/hauuauaeuuearrrrrrrrk.py

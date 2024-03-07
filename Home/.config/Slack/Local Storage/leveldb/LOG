@@ -1,0 +1,6 @@
+2024/02/05-16:59:52.198 617d Reusing MANIFEST /home/holden/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2024/02/05-16:59:52.198 617d Recovering log #4
+2024/02/05-16:59:52.201 617d Reusing old log /home/holden/.config/Slack/Local Storage/leveldb/000004.log 
+2024/02/05-17:00:53.109 617d Level-0 table #8: started
+2024/02/05-17:00:53.161 617d Level-0 table #8: 12211 bytes OK
+2024/02/05-17:00:53.229 617d Delete type=0 #4

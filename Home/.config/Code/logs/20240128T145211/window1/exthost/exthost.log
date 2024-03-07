@@ -1,0 +1,6 @@
+2024-01-28 14:52:14.922 [info] Extension host with pid 4041 started
+2024-01-28 14:52:14.922 [info] Skipping acquiring lock for /home/holden/.config/Code/User/workspaceStorage/baa6e760a908084dee0b061fd4883b40.
+2024-01-28 14:52:15.027 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-28 14:52:15.054 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-28 14:52:15.066 [info] Extension host with pid 4041 exiting with code 0
+2024-01-28 14:52:15.067 [info] Eager extensions activated

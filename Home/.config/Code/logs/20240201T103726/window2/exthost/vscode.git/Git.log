@@ -1,0 +1,15 @@
+2024-02-01 10:37:34.884 [info] Log level: Info
+2024-02-01 10:37:34.884 [info] Validating found git in: "git"
+2024-02-01 10:37:34.884 [info] Using git "2.43.0" from "git"
+2024-02-01 10:37:34.884 [info] > git rev-parse --show-toplevel [219ms]
+2024-02-01 10:37:34.884 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-01 10:37:34.884 [info] > git rev-parse --show-toplevel [46ms]
+2024-02-01 10:37:34.884 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-01 10:37:35.771 [info] > git rev-parse --show-toplevel [20ms]
+2024-02-01 10:37:35.771 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-01 10:37:36.141 [info] > git rev-parse --show-toplevel [51ms]
+2024-02-01 10:37:36.141 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-01 10:37:36.781 [info] > git rev-parse --show-toplevel [21ms]
+2024-02-01 10:37:36.781 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-01 10:37:37.415 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-01 10:37:37.415 [info] fatal: not a git repository (or any of the parent directories): .git

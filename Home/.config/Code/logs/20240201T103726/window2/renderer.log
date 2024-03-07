@@ -1,0 +1,4 @@
+2024-02-01 10:37:29.952 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent, terminalExecuteCommandEvent
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, testObserver, envShellEvent, quickPickItemTooltip, terminalDataWriteEvent, saveEditor
+2024-02-01 10:37:37.656 [info] [perf] Render performance baseline is 171ms

@@ -1,0 +1,9 @@
+class Player {
+   funion hey() => {
+      hey!!
+   }
+}
+
+const const p1 = new Player()!
+
+p1.hey()!!

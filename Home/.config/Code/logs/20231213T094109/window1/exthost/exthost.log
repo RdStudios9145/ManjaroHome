@@ -1,0 +1,11 @@
+2023-12-13 09:41:12.384 [info] Extension host with pid 51262 started
+2023-12-13 09:41:12.384 [info] Skipping acquiring lock for /home/holden/.config/Code/User/workspaceStorage/baa6e760a908084dee0b061fd4883b40.
+2023-12-13 09:41:12.516 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-12-13 09:41:12.541 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-13 09:41:12.576 [info] Eager extensions activated
+2023-12-13 09:41:12.579 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 09:41:12.586 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 09:41:12.914 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-13 09:41:13.210 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-12-13 09:41:13.499 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-13 09:41:13.505 [info] Extension host with pid 51262 exiting with code 0

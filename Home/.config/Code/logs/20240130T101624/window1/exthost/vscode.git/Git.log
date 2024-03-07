@@ -1,0 +1,134 @@
+2024-01-30 10:16:27.353 [info] Log level: Info
+2024-01-30 10:16:27.353 [info] Validating found git in: "git"
+2024-01-30 10:16:27.353 [info] Using git "2.43.0" from "git"
+2024-01-30 10:16:27.353 [info] > git rev-parse --show-toplevel [21ms]
+2024-01-30 10:16:27.353 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:27.353 [info] > git rev-parse --show-toplevel [71ms]
+2024-01-30 10:16:27.353 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:27.358 [info] > git rev-parse --show-toplevel [7ms]
+2024-01-30 10:16:27.358 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:27.374 [info] > git rev-parse --show-toplevel [5ms]
+2024-01-30 10:16:27.374 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:27.389 [info] > git rev-parse --show-toplevel [4ms]
+2024-01-30 10:16:27.390 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:27.404 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-30 10:16:27.404 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:27.425 [info] > git rev-parse --show-toplevel [6ms]
+2024-01-30 10:16:27.444 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-01-30 10:16:27.498 [info] Open repository: /home/holden/Downloads/anamnesis
+2024-01-30 10:16:27.583 [info] > git config --get commit.template [26ms]
+2024-01-30 10:16:27.585 [info] > git rev-parse --show-toplevel [8ms]
+2024-01-30 10:16:27.585 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:27.616 [info] > git rev-parse --show-toplevel [4ms]
+2024-01-30 10:16:27.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:27.636 [info] > git rev-parse --show-toplevel [7ms]
+2024-01-30 10:16:27.654 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [52ms]
+2024-01-30 10:16:27.668 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2024-01-30 10:16:27.682 [info] Open repository: /home/holden/Downloads/discord_arch_electron
+2024-01-30 10:16:27.718 [info] > git status -z -uall [51ms]
+2024-01-30 10:16:27.790 [info] > git rev-parse --show-toplevel [73ms]
+2024-01-30 10:16:27.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:27.790 [info] > git config --get commit.template [82ms]
+2024-01-30 10:16:27.851 [info] > git config --get commit.template [63ms]
+2024-01-30 10:16:27.949 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [50ms]
+2024-01-30 10:16:27.977 [info] > git rev-parse --show-toplevel [127ms]
+2024-01-30 10:16:27.977 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:27.995 [info] > git status -z -uall [19ms]
+2024-01-30 10:16:27.995 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [48ms]
+2024-01-30 10:16:28.017 [info] > git rev-parse --show-toplevel [23ms]
+2024-01-30 10:16:28.143 [info] > git status -z -uall [130ms]
+2024-01-30 10:16:28.273 [info] > git config --get commit.template [131ms]
+2024-01-30 10:16:28.274 [info] > git rev-parse --git-dir --git-common-dir [143ms]
+2024-01-30 10:16:28.286 [info] Open repository: /home/holden/Downloads/minecraft-launcher
+2024-01-30 10:16:28.441 [info] > git check-ignore -v -z --stdin [102ms]
+2024-01-30 10:16:28.450 [info] > git check-ignore -v -z --stdin [87ms]
+2024-01-30 10:16:28.458 [info] > git rev-parse --show-toplevel [69ms]
+2024-01-30 10:16:28.458 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:28.464 [info] > git config --get commit.template [88ms]
+2024-01-30 10:16:28.534 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [95ms]
+2024-01-30 10:16:28.603 [info] > git status -z -uall [36ms]
+2024-01-30 10:16:28.604 [info] > git rev-parse --show-toplevel [70ms]
+2024-01-30 10:16:28.649 [info] > git rev-parse --git-dir --git-common-dir [27ms]
+2024-01-30 10:16:28.686 [info] Open repository: /home/holden/Downloads/prismlauncher
+2024-01-30 10:16:28.687 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [86ms]
+2024-01-30 10:16:28.835 [info] > git status -z -uall [106ms]
+2024-01-30 10:16:28.918 [info] > git rev-parse --show-toplevel [83ms]
+2024-01-30 10:16:28.919 [info] > git config --get commit.template [98ms]
+2024-01-30 10:16:28.952 [info] > git config --get commit.template [35ms]
+2024-01-30 10:16:28.983 [info] > git rev-parse --git-dir --git-common-dir [32ms]
+2024-01-30 10:16:28.997 [info] Open repository: /home/holden/Downloads/pygtk
+2024-01-30 10:16:29.025 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [44ms]
+2024-01-30 10:16:29.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [69ms]
+2024-01-30 10:16:29.052 [info] > git status -z -uall [16ms]
+2024-01-30 10:16:29.058 [info] > git rev-parse --show-toplevel [35ms]
+2024-01-30 10:16:29.058 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:29.058 [info] > git config --get commit.template [47ms]
+2024-01-30 10:16:29.108 [info] > git status -z -uall [59ms]
+2024-01-30 10:16:29.139 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [55ms]
+2024-01-30 10:16:29.151 [info] > git rev-parse --show-toplevel [81ms]
+2024-01-30 10:16:29.151 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:29.167 [info] > git config --get commit.template [31ms]
+2024-01-30 10:16:29.172 [info] > git status -z -uall [21ms]
+2024-01-30 10:16:29.173 [info] > git rev-parse --show-toplevel [6ms]
+2024-01-30 10:16:29.173 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:29.231 [info] > git rev-parse --show-toplevel [14ms]
+2024-01-30 10:16:29.233 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [33ms]
+2024-01-30 10:16:29.257 [info] > git status -z -uall [11ms]
+2024-01-30 10:16:29.257 [info] > git config --get commit.template [29ms]
+2024-01-30 10:16:29.291 [info] > git rev-parse --git-dir --git-common-dir [35ms]
+2024-01-30 10:16:29.304 [info] Open repository: /home/holden/Downloads/spotify
+2024-01-30 10:16:29.334 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [49ms]
+2024-01-30 10:16:29.358 [info] > git rev-parse --show-toplevel [25ms]
+2024-01-30 10:16:29.358 [info] > git config --get commit.template [39ms]
+2024-01-30 10:16:29.400 [info] > git status -z -uall [44ms]
+2024-01-30 10:16:29.406 [info] > git rev-parse --git-dir --git-common-dir [28ms]
+2024-01-30 10:16:29.416 [info] Open repository: /home/holden/Downloads/yay
+2024-01-30 10:16:29.447 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [47ms]
+2024-01-30 10:16:29.460 [info] > git rev-parse --show-toplevel [14ms]
+2024-01-30 10:16:29.460 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:29.460 [info] > git config --get commit.template [23ms]
+2024-01-30 10:16:29.485 [info] > git status -z -uall [27ms]
+2024-01-30 10:16:29.497 [info] > git rev-parse --show-toplevel [23ms]
+2024-01-30 10:16:29.497 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:29.528 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [44ms]
+2024-01-30 10:16:29.544 [info] > git rev-parse --show-toplevel [17ms]
+2024-01-30 10:16:29.544 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:29.545 [info] > git config --get commit.template [37ms]
+2024-01-30 10:16:29.566 [info] > git status -z -uall [24ms]
+2024-01-30 10:16:29.577 [info] > git rev-parse --show-toplevel [22ms]
+2024-01-30 10:16:29.577 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:29.603 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [38ms]
+2024-01-30 10:16:29.621 [info] > git rev-parse --show-toplevel [20ms]
+2024-01-30 10:16:29.621 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:29.621 [info] > git config --get commit.template [34ms]
+2024-01-30 10:16:29.623 [info] > git status -z -uall [10ms]
+2024-01-30 10:16:29.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-01-30 10:16:29.662 [info] > git status -z -uall [5ms]
+2024-01-30 10:16:30.251 [info] > git check-ignore -v -z --stdin [70ms]
+2024-01-30 10:16:30.252 [info] > git check-ignore -v -z --stdin [61ms]
+2024-01-30 10:16:30.253 [info] > git check-ignore -v -z --stdin [49ms]
+2024-01-30 10:16:30.255 [info] > git check-ignore -v -z --stdin [40ms]
+2024-01-30 10:16:30.256 [info] > git check-ignore -v -z --stdin [31ms]
+2024-01-30 10:16:30.257 [info] > git check-ignore -v -z --stdin [23ms]
+2024-01-30 10:16:30.258 [info] > git check-ignore -v -z --stdin [14ms]
+2024-01-30 10:16:32.244 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-30 10:16:32.244 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:59.871 [info] Log level: Info
+2024-01-30 10:16:59.871 [info] Validating found git in: "git"
+2024-01-30 10:16:59.871 [info] Using git "2.43.0" from "git"
+2024-01-30 10:16:59.887 [info] > git rev-parse --show-toplevel [24ms]
+2024-01-30 10:16:59.887 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:59.935 [info] > git rev-parse --show-toplevel [27ms]
+2024-01-30 10:16:59.935 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:59.951 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-30 10:16:59.951 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:16:59.968 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-30 10:16:59.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:17:00.100 [info] > git rev-parse --show-toplevel [106ms]
+2024-01-30 10:17:00.100 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:17:00.186 [info] > git rev-parse --show-toplevel [9ms]
+2024-01-30 10:17:00.186 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:17:00.560 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-30 10:17:00.560 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-30 10:17:00.608 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-30 10:17:00.608 [info] fatal: not a git repository (or any of the parent directories): .git

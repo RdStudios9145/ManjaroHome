@@ -1,0 +1,4 @@
+2024-03-06 13:42:25.921 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/holden/.vscode/extensions/ms-python.vscode-pylance-2023.12.1
+2024-03-06 13:42:26.047 [info] Deleted uninstalled extension from disk ms-python.python /home/holden/.vscode/extensions/ms-python.python-2023.22.1
+2024-03-06 13:42:26.810 [info] Getting Manifest... ms-python.vscode-pylance
+2024-03-06 13:42:26.864 [info] Installing extension: ms-python.vscode-pylance

@@ -1,0 +1,33 @@
+2024-01-27 14:48:23.597 [info] Getting Manifest... ms-python.python
+2024-01-27 14:48:23.601 [info] Getting Manifest... ms-python.vscode-pylance
+2024-01-27 14:48:23.611 [info] Installing extension: ms-python.python
+2024-01-27 14:48:23.613 [info] Installing extension: ms-python.vscode-pylance
+2024-01-27 14:48:24.602 [info] Getting Manifest... ms-python.python
+2024-01-27 14:48:24.709 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-01-27 14:48:37.225 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2024-01-27 14:48:40.572 [info] Extracted extension to file:///home/holden/.vscode/extensions/ms-python.python-2023.22.1: ms-python.python
+2024-01-27 14:48:40.645 [info] Renamed to /home/holden/.vscode/extensions/ms-python.python-2023.22.1
+2024-01-27 14:48:40.651 [info] Extracting extension completed. ms-python.python
+2024-01-27 14:48:40.677 [info] Extension installed successfully: ms-python.python
+2024-01-27 14:48:40.678 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-01-27 14:48:40.694 [info] Marked extension as uninstalled ms-python.python-2023.18.0
+2024-01-27 14:48:40.831 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2024-01-27 14:48:45.066 [info] Extracted extension to file:///home/holden/.vscode/extensions/ms-python.vscode-pylance-2023.12.1: ms-python.vscode-pylance
+2024-01-27 14:48:45.101 [info] Renamed to /home/holden/.vscode/extensions/ms-python.vscode-pylance-2023.12.1
+2024-01-27 14:48:45.104 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-01-27 14:48:45.130 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-01-27 14:48:45.143 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.10.40
+2024-01-27 14:51:37.250 [info] Getting Manifest... ms-vscode.makefile-tools
+2024-01-27 14:51:37.296 [info] Installing extension: ms-vscode.makefile-tools
+2024-01-27 14:51:41.188 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.makefile-tools
+2024-01-27 14:51:42.449 [info] Extracted extension to file:///home/holden/.vscode/extensions/ms-vscode.makefile-tools-0.8.22: ms-vscode.makefile-tools
+2024-01-27 14:51:42.475 [info] Renamed to /home/holden/.vscode/extensions/ms-vscode.makefile-tools-0.8.22
+2024-01-27 14:51:42.495 [info] Extracting extension completed. ms-vscode.makefile-tools
+2024-01-27 14:51:42.519 [info] Extension installed successfully: ms-vscode.makefile-tools
+2024-01-27 14:51:58.501 [info] Getting Manifest... tpxhorus.fasm
+2024-01-27 14:51:58.511 [info] Installing extension: tpxhorus.fasm
+2024-01-27 14:51:59.486 [warning] Extension signature verification failed with error 'UnknownError': tpxhorus.fasm
+2024-01-27 14:51:59.509 [info] Extracted extension to file:///home/holden/.vscode/extensions/tpxhorus.fasm-0.0.3: tpxhorus.fasm
+2024-01-27 14:51:59.526 [info] Renamed to /home/holden/.vscode/extensions/tpxhorus.fasm-0.0.3
+2024-01-27 14:51:59.529 [info] Extracting extension completed. tpxhorus.fasm
+2024-01-27 14:51:59.547 [info] Extension installed successfully: tpxhorus.fasm

@@ -1,0 +1,10 @@
+2024-02-01 10:37:38.323 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-02-01 10:37:41.555 [info] [Info  - 10:37:41 AM] (3956) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-02-01 10:37:41.569 [info] [Info  - 10:37:41 AM] (3956) Server root directory: /home/holden/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-02-01 10:37:41.569 [info] [Info  - 10:37:41 AM] (3956) Starting service instance "gerrymandering"
+2024-02-01 10:37:41.889 [info] [Info  - 10:37:41 AM] (3956) Setting pythonPath for service "gerrymandering": "/home/holden/Downloads/gerrymandering/bin/python"
+2024-02-01 10:37:41.892 [info] [Info  - 10:37:41 AM] (3956) Setting environmentName for service "gerrymandering": "3.11.6 (gerrymandering venv)"
+2024-02-01 10:37:42.094 [info] [Info  - 10:37:42 AM] (3956) Assuming Python version 3.11
+2024-02-01 10:37:42.405 [info] [Info  - 10:37:42 AM] (3956) Auto-excluding /home/holden/Downloads/gerrymandering
+2024-02-01 10:37:42.406 [info] [Info  - 10:37:42 AM] (3956) No source files found.
+2024-02-01 10:38:15.854 [info] [Error - 10:38:15 AM] Server process exited with code 0.

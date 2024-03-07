@@ -1,0 +1,9 @@
+[user]
+	name = RdStudios
+	email = 77551723+RdStudios9145@users.noreply.github.com
+[credential]
+	helper = 
+	helper = /usr/local/bin/git-credential-manager
+	credentialStore = secretservice
+[credential "https://dev.azure.com"]
+	useHttpPath = true

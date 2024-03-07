@@ -1,0 +1,16 @@
+2024-02-13 10:26:31.319 [info] Getting Manifest... ms-python.python
+2024-02-13 10:26:31.322 [info] Getting Manifest... ms-python.vscode-pylance
+2024-02-13 10:26:31.414 [info] Installing extension: ms-python.vscode-pylance
+2024-02-13 10:26:31.416 [info] Installing extension: ms-python.python
+2024-02-13 10:26:31.737 [info] Getting Manifest... ms-python.debugpy
+2024-02-13 10:26:31.857 [info] Installing extension: ms-python.debugpy ms-python.python
+2024-02-13 10:26:31.906 [info] Getting Manifest... ms-python.python
+2024-02-13 10:26:32.077 [info] Getting Manifest... ms-python.debugpy
+2024-02-13 10:26:32.159 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-02-13 10:26:32.159 [info] Waiting for already requested installing extension ms-python.debugpy ms-python.vscode-pylance
+2024-02-13 10:26:33.240 [warning] Extension signature verification failed with error 'UnknownError': ms-python.debugpy
+2024-02-13 10:26:34.436 [info] Extracted extension to file:///home/holden/.vscode/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2024-02-13 10:26:34.450 [info] Renamed to /home/holden/.vscode/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2024-02-13 10:26:34.454 [info] Extracting extension completed. ms-python.debugpy
+2024-02-13 10:26:35.527 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2024-02-13 10:26:37.314 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python

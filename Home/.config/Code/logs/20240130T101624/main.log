@@ -1,0 +1,14 @@
+2024-01-30 10:16:24.514 [info] update#setState idle
+2024-01-30 10:16:54.517 [info] update#setState checking for updates
+2024-01-30 10:16:54.528 [info] update#setState available for download
+2024-01-30 10:17:02.534 [info] Extension host with pid 10123 exited with code: 0, signal: unknown.
+2024-01-31 14:59:10.362 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-01-31 14:59:10.546 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 18678]: crashed with code 15 and reason 'killed'
+2024-01-31 14:59:15.353 [info] Extension host with pid 18688 exited with code: 0, signal: unknown.
+2024-01-31 15:15:59.970 [info] Extension host with pid 20407 exited with code: 0, signal: unknown.
+2024-01-31 15:16:06.160 [info] Extension host with pid 18740 exited with code: 0, signal: unknown.
+2024-01-31 15:19:03.987 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-01-31 15:19:03.988 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 20450]: crashed with code 15 and reason 'killed'
+2024-01-31 15:19:08.933 [info] Extension host with pid 20462 exited with code: 0, signal: unknown.
+2024-01-31 17:03:22.177 [info] Extension host with pid 10300 exited with code: 0, signal: unknown.
+2024-01-31 17:03:22.178 [error] ptyHost terminated unexpectedly with code 0
